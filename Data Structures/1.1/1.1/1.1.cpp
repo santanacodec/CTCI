@@ -1,5 +1,5 @@
 // 1.1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Implement the algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
 
 #include <iostream>
 
